@@ -1,5 +1,5 @@
 #!/usr/bin/php
-<?
+<?php
 require_once'html_parser/simple_html_dom.php';
 
 class Crawler {
